@@ -21,6 +21,7 @@ public class TestPOI {
         System.out.println(sheet.getFirstRowNum());
         System.out.println(row.getCell(1));
         System.out.println(cell.getColumnIndex()+" and "+cell.getRowIndex());
+
     }
 }
 //dependency apache POI and Apache ooxml
