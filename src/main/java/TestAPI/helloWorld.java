@@ -9,5 +9,13 @@ public class helloWorld {
         System.out.println("chicago");
         System.out.println("bishkek");
         System.out.println("complicated ");
+
+        System.out.println("beghimai");
+        System.out.println("dsfg");
+        System.out.println("asdfg");
+        System.out.println("asdfghj");
+        System.out.println();
+
+
     }
 }
