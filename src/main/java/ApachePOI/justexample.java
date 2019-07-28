@@ -36,7 +36,7 @@ public class justexample {
         ArrayList<Object[]> obj =justGetExcel.getDataFromExcel();
         return obj.iterator();
     }
-    @Test(dataProvider ="getDatafromProvider")
+    @Test(dataProvider ="getDatafromProvider",priority = 1)
     public void homeDepotLogIn(String string, String string1) throws InterruptedException {
         Thread.sleep(2000);
         WebElement email = driver.findElement(By.id("signinEmail"));
