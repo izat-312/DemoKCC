@@ -6,6 +6,7 @@ public class helloWorld {
         System.out.println("Study");
         System.out.println("hardddddd");
         System.out.println("are you sure?");
-
+        System.out.println("chicago");
+        System.out.println("bishkek");
     }
 }
